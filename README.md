@@ -1,7 +1,12 @@
 ## Submission to the [John Hunter Excellence in Plotting Contest 2020](https://jhepc.github.io/about.html)
 ![Figure](./figure.png)
+<<<<<<< HEAD
 #### Figure title : A cortical neural network for the vision of natural textures 
 #### Authors : Hugo Ladret
+=======
+#### Figure title : A cortical-like neural network for the vision of natural textures 
+#### Authors : Hugo Ladret, Laurent Perrinet
+>>>>>>> dd748ce72dddcf422bc3574dd679537e4ab26402
  
 ### Abstract
 Spiking neural networks are a popular class of artificial neural networks based on biological learning architectures. These models use a binary temporal code of 'spikes' to create sparse and efficient encoding of inputs. In computer vision, such neural networks exhibit several interesting properties, one of which is orientation selectivity : the capacity for the neurons to encode the orientation of the visual input. Widely considered to be the very first step in the processing of visual informations, orientation selectivity has been extensively studied, modeled and subsequently plotted. In this context, data visualization must show the neural network structure while also conveying information about its activity.
