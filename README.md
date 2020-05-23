@@ -1,5 +1,5 @@
 ## Submission to the [John Hunter Excellence in Plotting Contest 2020](https://jhepc.github.io/about.html)
-![Figure](./figure.png)
+![Figure](./fig/figure.png)
 
 #### Figure title : A cortical neural network for the vision of natural textures 
 #### Authors : Hugo Ladret
